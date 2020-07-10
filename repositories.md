@@ -35,6 +35,7 @@
 ## Extension apps
 - unifyre-app-pooldrop
 - unifyre-app-wyre
+- unifyre-app-p2pswap
 - staking-ui
 - extension-examples
 
